@@ -1,0 +1,495 @@
+{
+  "project_info": {
+    "project_number": "18799021412",
+    "firebase_url": "https://fir-app3-f6aaf.firebaseio.com",
+    "project_id": "fir-app3-f6aaf",
+    "storage_bucket": "fir-app3-f6aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:f1cc93dc4c1e2f18",
+        "android_client_info": {
+          "package_name": "sercandevops.com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-f6gu6e4ocp8fit2s95jcg0o5p9coftgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.chatapp",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:73f8eb2d7c015573",
+        "android_client_info": {
+          "package_name": "sercandevops.com.f_4egitimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-2bs2v6ve2n42d6velv8a6bdqp6n40p1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.f_4egitimi",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:312d7659decb7356",
+        "android_client_info": {
+          "package_name": "sercandevops.com.fire5_egitim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-3hcu3e8okf1k3hfkvskpm4ku8e8b36jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.fire5_egitim",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:0a1c316dfc3a2772",
+        "android_client_info": {
+          "package_name": "sercandevops.com.fire6egitim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-iqh6lsl5qhdc8hig9acvbl0qld1lk5fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.fire6egitim",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:31dc2e21f524ff00",
+        "android_client_info": {
+          "package_name": "sercandevops.com.fire7egitim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-r2m5vlla4010itugg3th36m73moffdrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.fire7egitim",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:3f29eb87de6d8141",
+        "android_client_info": {
+          "package_name": "sercandevops.com.fire8egitim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-67a04mg2n5qq4dq0s1gjpf3vsl8osc4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.fire8egitim",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:f5ed1abb3ffcbbb7",
+        "android_client_info": {
+          "package_name": "sercandevops.com.firebaseapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-89s36stn0riakcouq37ek2k8e9fm0fs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.firebaseapp3",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:c5a8f42fbb1a76b4",
+        "android_client_info": {
+          "package_name": "sercandevops.com.firebaseegiti2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-b5jvb21sjnh3lsshbv2i4kni3g1vv5h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.firebaseegiti2",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:d453959d97ebcd76",
+        "android_client_info": {
+          "package_name": "sercandevops.com.firebaseegitim1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-pltbuidvu5namq2dogt2h66kici4loel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.firebaseegitim1",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:6ab56b4c849be8de",
+        "android_client_info": {
+          "package_name": "sercandevops.com.firebaseegitim3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-nud1scgou6djd0qi05of2v018jkr7al2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.firebaseegitim3",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799021412:android:cd53a31360a89ccf",
+        "android_client_info": {
+          "package_name": "sercandevops.com.otogaleriuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799021412-uq3mheo71p1hjpslauk3sobbdcuqv13d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sercandevops.com.otogaleriuygulamasi",
+            "certificate_hash": "bbaf6bc01f2bf395fccbe0757ce6d9e1f57af02d"
+          }
+        },
+        {
+          "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sWDF6Wg2I3FcDkhgj134jwauUBCTQhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799021412-hk47s4k8r92p264lvq7d8a837e8ejpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

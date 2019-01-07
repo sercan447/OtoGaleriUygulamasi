@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#F7BC05"
+    android:id="@+id/yakitOutLinerlayout"
+    android:layout_height="match_parent"
+    tools:context=".YakitActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content" />
+<LinearLayout
+    android:id="@+id/yakitInLinearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Yakıt Tüketimi Bilgilerini Giriniz."/>
+
+
+    <EditText
+        android:id="@+id/yakitTipiBilgiEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#203040"
+        android:hint="Yakıt Tipi Giriniz."/>
+    <EditText
+        android:id="@+id/ortalamaYakitEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#203040"
+        android:hint="Ortalama Yakıt Bilgi Giriniz."/>
+
+    <EditText
+        android:id="@+id/depoHacmiEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#203040"
+        android:hint="Depo Hacmi Giriniz."/>
+
+    <Button
+        android:id="@+id/yakitTuketimBilgiButon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:text="ilan ver"
+        android:background="@drawable/menu_button_back"/>
+
+    <Button
+        android:id="@+id/yakitTuketimBilgiButonGeri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:text="Geri"
+        android:background="@drawable/menu_button_back"/>
+
+</LinearLayout>
+
+
+</LinearLayout>
